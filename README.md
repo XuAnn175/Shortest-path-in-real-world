@@ -1,5 +1,5 @@
 # Shortest-path-in-real-world  
-In this project,we find the shortest path between 2 places in real world.  
+In this project,we find the shortest path between 2 places in real world(Hsinchu City).  
 We locate real world positions using [OpenStreetMap](https://www.openstreetmap.org/).  
 Algorithm we use in this project : **BFS**, **DFS**, **Uniform Cost Search**, **A star Search**.  
 Record the route and distance of the path found by each algorithm,and present the result using *Folium* package in python.  
